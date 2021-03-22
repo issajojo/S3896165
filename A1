@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+$ git reset --soft HEAD~1
 <title>The start</title>
 <head>
 <body>
