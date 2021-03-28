@@ -9,3 +9,16 @@ h1 {
 .second-h1 {
 font-size: 30px;
 }
+img {
+    width: 350px;
+    height: auto;
+}
+p {
+    font-size: 20px;
+}
+.project {
+    width:fit-content
+}
+.home {
+    width: fit-content;
+}
